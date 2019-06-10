@@ -32,7 +32,7 @@ jinrishici.load(function(result) {
         var content=break_line.innerHTML;
 	 break_line.innerHTML=content.replace(/晋代/g,"晋");     
   
-
+ $youziku.submit(result);
     });
 
 
