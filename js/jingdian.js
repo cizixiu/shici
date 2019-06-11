@@ -31,8 +31,7 @@ jinrishici.load(function(result) {
 	 break_line.innerHTML=content.replace(/清代/g,"清");     
         var content=break_line.innerHTML;
 	 break_line.innerHTML=content.replace(/晋代/g,"晋");     
-  
-    $youziku.submit(result);
+
     });
 
 
